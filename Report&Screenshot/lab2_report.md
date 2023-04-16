@@ -99,7 +99,7 @@ LittleMonk[3]_AddedWater. Water left: 3
 
 #### 运行截图：
 
-<img src="D:\Tools\Typora\素材库\懒人图片库lab2_report\image-20230227110921867.png" alt="image-20230227110921867" style="zoom: 33%;" />
+<img src="D:\Tools\Typora\素材库\懒人图片库\lab2_report\image-20230227110921867.png" alt="image-20230227110921867" style="zoom: 33%;" />
 
 #### 结果说明：
 
